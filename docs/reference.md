@@ -269,7 +269,7 @@ Extract the contents of the archive to a path.
 `archive.extract(archive, type="AUTO", destination_folder=None, paths=None)`
 
 
-#### Parameters:
+#### Parameters: {#archive.extract.parameters-link}
 
 Parameter | Description
 --------- | -----------
